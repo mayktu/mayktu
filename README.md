@@ -51,7 +51,6 @@
             alt="selenium" width="40" height="40" /> </a>
 </p>
 
-<hr>
 <p align="center">
 <table style="border-collapse: collapse;padding: 0;margin: 0;">
     <tr>
